@@ -1,0 +1,25 @@
+{
+  "name": "angular-tree-view",
+  "homepage": "https://github.com/horelvis/angular-tree-view",
+  "authors": [
+    "hcastillo.mendoza@gmail.com <hcastillo.mendoza@gmail.com>"
+  ],
+  "description": "angular tree view component",
+  "keywords": [
+    "tree",
+    "treefolder"
+  ],
+  "main": [
+			"js/treeView.js",
+			"css/style.css"
+	],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

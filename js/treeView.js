@@ -1,5 +1,5 @@
 ﻿(function (angular, undefined) {
-	var module = angular.module('AxelSoft', []);
+	var module = angular.module('tree', []);
 
 	module.value('treeViewDefaults', {
 		foldersProperty: 'folders',
