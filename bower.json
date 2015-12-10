@@ -1,6 +1,7 @@
 {
   "name": "angular-tree-view",
   "homepage": "https://github.com/horelvis/angular-tree-view",
+  "version": "1.0.0",
   "authors": [
     "hcastillo.mendoza@gmail.com <hcastillo.mendoza@gmail.com>"
   ],
